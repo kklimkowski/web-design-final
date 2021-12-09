@@ -1,0 +1,151 @@
+ div.App {
+     min-height: 100vh;
+     background-color: #d3bc8d;
+    
+
+}
+
+div.title {
+    text-align: center;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    font-weight: bold;
+    font-family: Tempus Sans ITC;
+    font-size: 3rem;
+}
+
+div.subtitle {
+    text-align: center;
+    padding-bottom: 5rem;
+    font-family: Tempus Sans ITC;
+    font-size: 30px;
+}
+
+div.parent {
+text-size-adjust: 2rem;
+text-emphasis-style:Tempus Sans ITC;
+display:flex;
+justify-content: space-evenly;
+padding-bottom: 2rem;
+}
+
+
+
+.line {
+    border-bottom: 2px solid #000;
+    display:block;
+
+    
+
+
+}
+
+div.address {
+
+}
+
+div.events {
+    padding-top: 10rem;
+    padding-bottom: 2rem;
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+    font-family: Tempus Sans ITC;
+    font-size: 2rem;
+    
+}
+
+.wherepicturesshouldbe {
+    padding-bottom: 4rem;
+}
+
+
+.s {
+    padding-top: 4rem;
+    font-family: Tempus Sans ITC;
+    font-size: 20px;
+    font-weight: bold;
+    text-align:center;
+}
+
+.b  {font-family: Tempus Sans ITC;
+    font-size: 20px;
+    text-align:center;
+}
+
+.hourscontinued {
+      
+        font-family: Tempus Sans ITC;
+        font-size: 20px;
+        text-align:center;
+}
+
+.intro  {
+    padding-top: 4rem;
+    font-family: Tempus Sans ITC;
+    font-size: 20px;
+    font-weight: bold;
+    text-align:center;
+}
+
+.contact {
+        font-family: Tempus Sans ITC;
+        font-size: 20px;
+        text-align:center;
+}
+
+
+.contactcontinued  {
+    font-family: Tempus Sans ITC;
+    font-size: 20px;
+    text-align:center;
+
+
+}
+
+.h { 
+    padding-top: 4rem;
+    font-family: Tempus Sans ITC;
+    font-size: 20px;
+    font-weight: bold;
+    text-align:center;
+    
+}
+.hours  {
+  
+    font-family: Tempus Sans ITC;
+    font-size: 20px;
+    text-align:center;}
+
+.bob {
+font-family: Tempus Sans ITC;
+font-size: 20px;
+width:fit-content 300px;
+border: #000 dashed;
+text-align: center;
+display: flex;
+justify-content:center;
+padding-bottom: 2rem;
+padding-top: 2rem;
+}
+
+.line {
+padding-top:20rem;
+}
+
+.space {
+    padding: 1rem;
+
+}
+
+.sam {
+    font-family: Tempus Sans ITC;
+font-size: 20px;
+width:fit-content 300px;
+border: #000 dashed;
+text-align: center;
+display: flex;
+justify-content:center;
+padding-bottom: 2rem;
+padding-top: 2rem;
+}

@@ -2,7 +2,7 @@
   "name": "web-design-final",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://kklimkowski.github.io/web-dsign-final",
+  "homepage": "https://kklimkowski.github.io/web-design-final",
   "dependencies": {
     "@testing-library/jest-dom": "^5.15.0",
     "@testing-library/react": "^11.2.7",
